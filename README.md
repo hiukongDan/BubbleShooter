@@ -1,14 +1,14 @@
 # Bubble Shooter
 ## _A classical game implemented in Java language_
 
-### Description
-A game written by me in second year of undergratuate, while learning Java language
+### _Description_
+A game written by me in second year of undergratuate, while learning Java language :smile:
 
-### Author
+### _Author_
 Hiukong Dan
 
-### License
+### _License_
 MIT
 
-#### Update Data
+#### _Update Date_
 May 5 2021
